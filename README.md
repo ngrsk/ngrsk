@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Merhaba, ben [Adın]!  
 
-<!--
-**ngrsk/ngrsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **PHP Developer | Backend Developer**  
+🚀 **CodeIgniter | AI Plugins | Wordpress | MySQL | API Development**  
 
-Here are some ideas to get you started:
+### 🌟 Hakkımda
+- 🔭 Şu anda **wordpress için ai temelli otomasyon sistemi** yapmaktayım.  
+- 🌱 **Yeni öğrendiğin teknolojiler:** [Docker, Redis, GraphQL]  
+- 💡 **İlgi Alanlarım:** **Backend geliştirme, API entegrasyonları, optimizasyon**  
+- 📫 **Bana ulaş:** ogunusluer0@gmail.com | https://ogunusluer.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub İstatistiklerim  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngrsk&show_icons=true&theme=radical)  
