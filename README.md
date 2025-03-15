@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben [Adın]!  
+# 👋 Merhaba, ben Ogün Usluer!  
 
 💻 **PHP Developer | Backend Developer**  
 🚀 **CodeIgniter | AI Plugins | Wordpress | MySQL | API Development**  
